@@ -20,4 +20,5 @@ Hallazgos principales:
 | *PROVINCIA*  | Provincia donde reside la persona fallecida por covid-19.                            |
 | *CLASIFICACION_DEF*      | Criterios utilizados para la confirmacion de la defunción por covid-19                              |
 | *Criterio virológico*      | Muerte en un caso confirmado de COVID-19 que fallece en los 60 días posteriores a una prueba molecular (PCR) o antigénica reactiva para SARS-CoV-2.|
-trabajo: https://colab.research.google.com/drive/1GIJDGAAx8j18UmACBqyqCSKEQFjcDlam?usp=sharing
+
+Link del trabajo: https://colab.research.google.com/drive/1GIJDGAAx8j18UmACBqyqCSKEQFjcDlam?usp=sharing
