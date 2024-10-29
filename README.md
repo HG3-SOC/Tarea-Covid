@@ -4,7 +4,7 @@ En este análisis, se utilizó el Índice de Moran Local Bivariado para evaluar 
 
 Hallazgos principales:
 - Ucayaliy Amazonas: En estos departamentos se muestra que en algunas provincias hay una concentración significativa en rojo, indicando alta incidencia de fallecidosde COVID-19 en ambos años diagnostico mediante la prueba virológico.
--Ica y Ayacucho: Por estas zonas se observa una área en naranja que representa una alta incidencia en un año, pero no en el otro, lo que sugiere fluctuaciones en la incidencia de COVID-19.
+- Ica y Ayacucho: Por estas zonas se observa una área en naranja que representa una alta incidencia en un año, pero no en el otro, lo que sugiere fluctuaciones en la incidencia de COVID-19.
 - Lima y Ancash: Existen algunos puntos alrededor de Lima y áreas adyacentes con baja incidencia de COVID-19 en ambos años, indicando zonas de baja transmisión y con presencia de color naranja que representa una alta incidencia en un año que también señala preocupación.
 
 ##  Contenido
