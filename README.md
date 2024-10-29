@@ -8,8 +8,8 @@ Hallazgos principales:
 - Ica y Ayacucho: Por estas zonas se observa una área en naranja que representa una alta incidencia en un año, pero no en el otro, lo que sugiere fluctuaciones en la incidencia de COVID-19.
 - Lima y Ancash: Existen algunos puntos alrededor de Lima y áreas adyacentes con baja incidencia de COVID-19 en ambos años, indicando zonas de baja transmisión y con presencia de color naranja que representa una alta incidencia en un año que también señala preocupación.
 
-##  Contenido
-- **Data**: Registro diario de muertes por Covid-19 en el Perú a nivel nacional durante el período 2020-2024. Encontrado en la Plataforma Nacional de Datos Abiertos (https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa).
+##  Data
+- **Enfermedad**: Registro diario de muertes por Covid-19 en el Perú a nivel nacional durante el período 2020-2024. Encontrado en la Plataforma Nacional de Datos Abiertos (https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa).
 - **Maps**: Mapa del Perú a nivel departamental y provincial. 
   
 
