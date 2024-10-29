@@ -1,5 +1,6 @@
 # Tarea del análisis espacial sobre fallecidos de Covid-19 a nivel provincial
 
+##  Descripción del análisis
 En este análisis, se utilizó el Índice de Moran Local Bivariado para evaluar la autocorrelación espacial de los casos de COVID-19 entre los años 2021 y 2022 en diferentes provincias segun el criterio virológico utilizados para la confirmacion de la defunción. El análisis reveló patrones espaciales de incidencia de COVID-19, permitiendo identificar las áreas críticas (hotspots) y zonas de baja incidencia (cold spots) entre 2021 y 2022 en la que se diagnostico mediante la prueba virológico o molecular. 
 
 Hallazgos principales:
