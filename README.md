@@ -10,7 +10,7 @@ Hallazgos principales:
 
 ##  Data
 - **Enfermedad**: Registro diario de muertes por Covid-19 en el Perú a nivel nacional durante el período 2020-2024. Encontrado en la Plataforma Nacional de Datos Abiertos (https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa).
-- **Maps**: Mapa del Perú a nivel departamental y provincial. 
+- **Mapas**: Mapa del Perú a nivel departamental y provincial. 
   
 
 ## Diccionario de datos
